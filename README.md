@@ -183,5 +183,5 @@ MIT License — free to use and modify.
 
 ## 🙌 Author
 
-Made by [your-username](https://github.com/senseihx4)  
+Made by [senseihx4](https://github.com/senseihx4)  
 If this helped you, give the repo a ⭐ on GitHub!
