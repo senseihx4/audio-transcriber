@@ -1,0 +1,20 @@
+# API secrets
+apisecrets.py
+
+# Audio files (no need to upload these)
+*.wav
+*.mp3
+
+# Environment variables (keep your API key safe!)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Output files
+*_transcript.txt
