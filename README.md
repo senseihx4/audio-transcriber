@@ -24,6 +24,7 @@ Before you start, make sure you have:
 
 ---
 
+
 ## 🔑 Step 1 — Get Your AssemblyAI API Key
 
 1. Go to **[https://www.assemblyai.com/](https://www.assemblyai.com/)**
