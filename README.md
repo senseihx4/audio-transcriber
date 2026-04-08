@@ -5,7 +5,7 @@ A beginner-friendly Python project that **records audio from your microphone** a
 ---
 
 ## 📌 What This Project Does
-
+      
 | Script | What it does |
 |---|---|
 | `record mic.py` | 🎤 Records audio from your mic and saves it as `output.wav` |
