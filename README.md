@@ -14,7 +14,7 @@ A beginner-friendly Python project that **records audio from your microphone** a
 ---
 
 ## 🧰 Requirements
-
+ 
 Before you start, make sure you have:
 
 - ✅ Python 3.7 or higher → [Download Python](https://www.python.org/downloads/)
