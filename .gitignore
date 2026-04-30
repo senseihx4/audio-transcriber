@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Django
+*.sqlite3
+.env
+audio_files/
+record_audiofiles/
+
+# Node
+node_modules/
+dist/
