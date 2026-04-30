@@ -8,7 +8,7 @@ A beginner-friendly Python project that **records audio from your microphone** a
       
 | Script | What it does |
 |---|---|
-| `record mic.py` | 🎤 Records audio from your mic and saves it as `output.wav` |
+| `record mic.py` | 🎤 Records audio from your mic and saves it as `output.wav` | 
 | `main.py` | 📝 Sends `output.wav` to AssemblyAI and saves the result to `output_transcript.txt` | 
 
 ---
